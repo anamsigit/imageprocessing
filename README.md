@@ -14,5 +14,4 @@ some brief explanation about python files
 8. oepncamera_opencv : basic code for the opencv module to open the camera, select index camera to choose which camera you want to open using the opencv module
 9. simple eye detection: opencv module that can detect eyes
 
-anamsigit
-Yogyakarta, 29 November 2022
+November 2022
