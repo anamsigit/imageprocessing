@@ -1,0 +1,312 @@
+Kalau konsentrasi sampel adalah **17 µg/g**, maka:
+
+* **1 µg/g = 1 mg/kg = 1 ppm**
+* Jadi **17 µg/g = 17 ppm**
+* Karena **1 ppm = 1000 ppb**, maka:
+$$
+
+\boxed{17\ \mu g/g = 17{,}000\ ppb}
+
+$$
+Namun, setelah preparasi **1 g sampel dilarutkan dalam 50 mL air**, konsentrasi dalam larutan menjadi:
+$$
+[
+17\ \mu g/g \times 1\ g = 17\ \mu g
+]
+$$
+$$
+[
+\frac{17\ \mu g}{50\ mL}=0.34\ \mu g/mL
+]
+$$
+Karena 
+$$ 
+1\ \mu g/mL = 1000\ ppb 
+$$
+
+$$
+[
+\boxed{0.34\ \mu g/mL = 340\ ppb}
+]
+$$
+**Jadi:**
+
+* Konsentrasi awal sampel = **17,000 ppb**
+* Konsentrasi larutan setelah 1 g → 50 mL = **340 ppb**
+
+***
+Sampel padat mengandung Fe sebesar 2 mg/kg. Sebanyak 0.5 g sampel didestruksi dan diencerkan sampai 50 mL.
+AAS mempunyai detection limit:
+$$ 0.02\ mg/L $$
+Apakah Fe terdeteksi?
+**Step 1 — Hitung massa Fe**
+2 mg/kg
+karena 
+0.5g=0.0005kg
+maka:
+$$ m_{Fe}=2\times0.0005=0.001 mg $$
+**Step 2 — Masukkan ke volume**
+C=0.001 mg/0.050L
+$$ \boxed{C=0.02\ mg/L} $$
+
+Detection limit:
+
+$$ C=0.02\ mg/L $$
+
+Maka secara batas ideal:
+
+$$ C\approx LOD $$
+
+→ berada tepat di sekitar batas deteksi, sehingga secara praktis hasilnya borderline dan perlu melihat definisi sensitivity/LOD yang diberikan dalam soal.
+***
+**Skema Soal 7 — Preparation membuat instrumen berubah hasil**
+sampel awal adalah C=0.02 ppm
+Preparation A:
+Dilute 10×
+$$ C_f=0.002\ ppm $$
+
+Preparation B: 	
+Preconcentrate 5×
+$$ Cf=0.1 ppm $$
+***
+kg → g → mg → µg → ng
+     ×1000 setiap turun 1 tingkat
+***
+L → mL → µL
+    ×1000
+***
+| Konsentrasi |     Setara |
+| ----------- | ---------: |
+| 1 mg/L      |  1000 µg/L |
+| 1 µg/L      |  1000 ng/L |
+| 1 ng/L      | 0.001 µg/L |
+| 1 µg/L      | 0.001 mg/L |
+***
+6. mg/L ↔ ppm
+
+Untuk larutan encer:
+
+$$ \boxed{mg/L\approx ppm} $$
+
+Contoh:
+
+$$ 0.2\,mg/L\approx0.2\,ppm $$
+$$ 5\,ppm\approx5\,mg/L $$
+
+7. µg/L ↔ ppb
+$$ \boxed{\mu g/L\approx ppb} $$
+
+Contoh:
+
+$$ 25\,\mu g/L\approx25\,ppb $$
+$$ 0.5\,ppb\approx0.5\,\mu g/L $$
+***
+| Konsentrasi |         Setara |
+| ----------- | -------------: |
+| 1 g/L       |      1000 mg/L |
+| 1 mg/L      |          1 ppm |
+| 1 mg/L      |      1000 µg/L |
+| 1 µg/L      |          1 ppb |
+| 1 µg/mL     | 1 mg/L ≈ 1 ppm |
+| 1 ng/mL     | 1 µg/L ≈ 1 ppb |
+| 1 ng/L      |          1 ppt |
+***
+Jangan tertukar: ppm dalam solid vs liquid
+Liquid
+$$ 1\,ppm\approx1\,mg/L $$
+Solid
+$$ 1\,ppm=1\,mg/kg $$
+***
+Molarity
+$$ \boxed{M=\frac{mol}{L}} $$
+
+Hubungan massa dan mol:
+
+$$ \boxed{n=\frac{m}{MW}} $$
+
+sehingga:
+
+$$ \boxed{M=\frac{m/MW}{V}} $$
+
+dengan:
+
+\(m\) = massa dalam gram
+\(MW\) = molecular weight, g/mol
+\(V\) = volume dalam L
+Contoh
+
+10 g NaCl, MW = 58.44 g/mol, volume 1 L:
+
+$$ M=\frac{10/58.44}{1} $$ 
+$$ =0.171\,M $$
+***
+15. mM dan µM
+$$ \boxed{1\,M=1000\,mM=10^6\,\mu M} $$
+$$ \boxed{1\,mM=1000\,\mu M} $$
+
+Contoh:
+
+$$ 0.5\,mM=500\,\mu M $$
+
+***
+1. MOL — "berapa banyak zat?"
+
+Mol (mol) adalah satuan jumlah zat.
+
+Rumus paling penting:
+
+$$ \boxed{n=\frac{m}{MW}} $$
+
+dengan:
+
+\(n\) = jumlah mol
+\(m\) = massa zat (g)
+\(MW\) = molecular weight / molar mass (g/mol)
+Contoh 1
+
+Berapa mol NaCl dalam 5.85 g NaCl?
+
+Massa molar NaCl:
+
+$$ MW=58.5\ g/mol $$
+
+Maka:
+
+$$ n=\frac{5.85}{58.5} $$ 
+$$ \boxed{n=0.100\ mol} $$
+
+Artinya, 5.85 g NaCl mengandung 0.1 mol NaCl.
+***
+Hubungan massa ↔ mol
+
+Hafalkan:
+
+$$ \boxed{mol=\frac{gram}{g/mol}} $$
+
+dan sebaliknya:
+
+$$ \boxed{gram=mol\times MW} $$
+Contoh
+
+Berapa gram Cu yang terdapat dalam 0.2 mol Cu?
+
+Jika:
+
+$$ MW_{Cu}=63.55\ g/mol $$
+
+maka:
+
+$$ m=0.2\times63.55 $$
+$$ \boxed{m=12.71\ g} $$
+***
+2. MOLARITY — "berapa mol dalam setiap liter?"
+
+Molarity adalah konsentrasi berdasarkan mol per liter larutan.
+
+$$ \boxed{M=\frac{mol}{L}} $$
+
+atau:
+
+$$ \boxed{M=\frac{n}{V}} $$
+
+dengan \(V\) harus dalam liter.
+
+Contoh 2
+
+0.5 mol NaCl dibuat menjadi larutan dengan volume 2 L.
+
+$$ M=\frac{0.5}{2} $$
+$$ \boxed{M=0.25\ M} $$
+
+Artinya:
+
+terdapat 0.25 mol NaCl dalam setiap 1 L larutan.
+***
+3. Dari gram langsung ke Molarity
+
+Karena:
+
+$$ n=\frac{m}{MW} $$
+
+dan:
+
+$$ M=\frac{n}{V} $$
+
+maka:
+
+$$ \boxed{ M=\frac{m}{MW\times V} } $$
+
+dengan:
+
+\(m\) dalam gram
+\(MW\) dalam g/mol
+\(V\) dalam liter.
+Contoh
+
+Berapa M larutan yang dibuat dari 5.85 g NaCl hingga volume 500 mL?
+
+Ubah volume:
+
+$$ 500\,mL=0.5\,L $$
+
+Mol:
+
+$$ n=\frac{5.85}{58.5}=0.1\ mol $$
+
+Molarity:
+
+$$ M=\frac{0.1}{0.5} $$ 
+$$ \boxed{M=0.20\ M} $$
+***
+Hubungan Molarity dengan mg/L
+Ini sangat berguna untuk soal analitik.
+
+Kita tahu:
+
+$$ M=\frac{mol}{L} $$
+
+dan:
+
+$$ mol=\frac{g}{MW} $$
+
+Maka:
+
+$$ M=\frac{g/L}{MW} $$
+
+Sehingga:
+
+$$ \boxed{g/L=M\times MW} $$
+
+Kalau ingin mg/L:
+
+$$ \boxed{mg/L=M\times MW\times1000} $$
+Contoh
+
+Berapa mg/L untuk larutan Cu \(0.01\,M\)?
+
+\(MW_{Cu}=63.55\,g/mol\)
+
+$$ mg/L=0.01\times63.55\times1000 $$
+$$ \boxed{635.5\ mg/L} $$
+
+Untuk larutan encer:
+
+$$ 635.5\ mg/L\approx635.5\ ppm $$
+***
+Hubungan Molarity dan Normality
+
+Untuk reaksi tertentu:
+
+$$ \boxed{N=M\times n} $$
+
+atau:
+
+$$ \boxed{M=\frac{N}{n}} $$
+| Zat     | n-factor* | Hubungan |
+| ------- | --------: | -------- |
+| HCl     |         1 | \(N=M\)  |
+| HNO₃    |         1 | \(N=M\)  |
+| H₂SO₄   |         2 | \(N=2M\) |
+| NaOH    |         1 | \(N=M\)  |
+| Ca(OH)₂ |         2 | \(N=2M\) |
+| H₃PO₄   |       3** | \(N=3M\) |
